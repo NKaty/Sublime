@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Can I Use",
+		"Color Highlighter",
+		"DocBlockr",
+		"FileDiffs",
+		"jQuery",
+		"SideBarEnhancements",
+		"SublimeLinter-xmllint",
+		"Trimmer",
+		"Vintage"
+	]
+}
